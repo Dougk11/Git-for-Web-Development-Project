@@ -1,4 +1,4 @@
-Link to finished codepen: 
+Link to finished codepen: https://codepen.io/djk18/pen/BaZKjmb?editors=1100
 
 1. What is Semantic HTML? 
 It is HTML that gives meaning to the markup
